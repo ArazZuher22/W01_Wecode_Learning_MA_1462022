@@ -14,7 +14,9 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
         home: Scaffold(
       body: Center(
-        child: Text("Hello Kurdistan"),
+        child: Text("Hello Kurdistan",style: TextStyle(
+      fontSize: 50, color: Color.fromARGB(255, 255, 64, 64)),),
+        
       ),
     ));
   }
