@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/src/04_Assignment_Four_In_Flutter/CitiesDetailsScreenView.dart';
-import 'package:my_app/src/04_Assignment_Four_In_Flutter/mock/Cities_data.dart';
+import 'package:my_app/src/04_Assignment_Kurdistan_Cities/CitiesDetailsScreenView.dart';
+import 'package:my_app/src/04_Assignment_Kurdistan_Cities/mock/Cities_data.dart';
 
 class CitiesHomeScreenView extends StatefulWidget {
   const CitiesHomeScreenView({Key? key}) : super(key: key);

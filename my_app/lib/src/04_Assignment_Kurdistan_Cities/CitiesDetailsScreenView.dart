@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/src/04_Assignment_Four_In_Flutter/mock/Cities_data.dart';
+import 'package:my_app/src/04_Assignment_Kurdistan_Cities/mock/Cities_data.dart';
 
 class DetailsScreen extends StatelessWidget {
   const DetailsScreen({Key? key,required this.name_city,required this.details_city , required this.image_city }) : super(key: key);
